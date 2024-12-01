@@ -37,7 +37,6 @@ Housing-Price-Forecast/
 - **Pandas**: Data manipulation and cleaning.  
 - **Scikit-learn**: Machine learning algorithms and tools.  
 - **Matplotlib/Seaborn**: For data visualization.  
-- **XGBoost**: Advanced gradient boosting for better predictions.
 
 ---
 
